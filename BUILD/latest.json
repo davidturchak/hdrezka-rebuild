@@ -2,7 +2,7 @@
   "versionCode": 37,
   "versionName": "0.2.1",
   "commit": "ee40e92",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/275b1e20b79c1bed1345290c730ca53c1817f9ef/BUILD/hdrezka-ng-0.2.1.apk",
   "sizeBytes": 3314373,
   "sha256": "01cf6e28ed83ccbc658df88ca0c1e85ed3c3abd727840ab72a2645c9e3d9c7af",
   "notes": "Приложение теперь видно по значку: на телевизоре и планшете над меню слева стоит значок HDrezka, а на телефоне — надпись HDrezka в углу главного экрана.",
