@@ -1,12 +1,19 @@
 {
-  "versionCode": 41,
-  "versionName": "0.2.2",
-  "commit": "439b691",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/34dca525bab50230d8ddd2875a6924e188e7b0b7/BUILD/hdrezka-ng-0.2.2.apk",
-  "sizeBytes": 3314373,
-  "sha256": "26756ce556228a0fafefbcf1ce0430d38245ca5409ebb735e54a2fa29e6a201b",
-  "notes": "Серия сериала начинает играть сразу, не дожидаясь загрузки всего сезона; пока видео загружается, виден индикатор. Кнопка «Назад» во время загрузки видео возвращает к фильму, а не закрывает приложение. Если фильм или сериал недоступен в вашем регионе, на его странице так и написано — вместо кнопки «Смотреть», которая не работала.",
+  "versionCode": 44,
+  "versionName": "0.2.3",
+  "commit": "8212d83",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.3.apk",
+  "sizeBytes": 3330757,
+  "sha256": "91802527bc7059fef52c324551e60eac59fc887290831a7329033019c149ffcf",
+  "notes": "На странице фильма и сериала появились отзывы зрителей: самые свежие, с ответами и аватарами. Спойлеры в них скрыты.",
   "changelog": [
+    {
+      "versionCode": 44,
+      "versionName": "0.2.3",
+      "notes": [
+        "На странице фильма и сериала появились отзывы зрителей: самые свежие, с ответами и аватарами. Спойлеры в них скрыты."
+      ]
+    },
     {
       "versionCode": 41,
       "versionName": "0.2.2",
