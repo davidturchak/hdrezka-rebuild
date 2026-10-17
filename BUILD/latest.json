@@ -2,7 +2,7 @@
   "versionCode": 44,
   "versionName": "0.2.3",
   "commit": "8212d83",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.3.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/a5f753b53cbe58830909270692bbc13e30fc4056/BUILD/hdrezka-ng-0.2.3.apk",
   "sizeBytes": 3330757,
   "sha256": "91802527bc7059fef52c324551e60eac59fc887290831a7329033019c149ffcf",
   "notes": "На странице фильма и сериала появились отзывы зрителей: самые свежие, с ответами и аватарами. Спойлеры в них скрыты.",
