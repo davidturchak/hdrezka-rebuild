@@ -1,12 +1,20 @@
 {
-  "versionCode": 44,
-  "versionName": "0.2.3",
-  "commit": "8212d83",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/a5f753b53cbe58830909270692bbc13e30fc4056/BUILD/hdrezka-ng-0.2.3.apk",
+  "versionCode": 48,
+  "versionName": "0.2.4",
+  "commit": "fefc51b",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.4.apk",
   "sizeBytes": 3330757,
-  "sha256": "91802527bc7059fef52c324551e60eac59fc887290831a7329033019c149ffcf",
-  "notes": "На странице фильма и сериала появились отзывы зрителей: самые свежие, с ответами и аватарами. Спойлеры в них скрыты.",
+  "sha256": "1634736ac06f1de614b94d0ed6fe535214fe22c4af521353a7ac761cd6313cef",
+  "notes": "На странице фильма и сериала теперь видна оценка самих зрителей HDrezka, а у аниме — ещё и World Art. Оценки стоят перед жанрами и странами, чтобы не теряться. В «Профиле» показывается фото вашего аккаунта на HDrezka вместо инициалов.",
   "changelog": [
+    {
+      "versionCode": 48,
+      "versionName": "0.2.4",
+      "notes": [
+        "На странице фильма и сериала теперь видна оценка самих зрителей HDrezka, а у аниме — ещё и World Art. Оценки стоят перед жанрами и странами, чтобы не теряться.",
+        "В «Профиле» показывается фото вашего аккаунта на HDrezka вместо инициалов."
+      ]
+    },
     {
       "versionCode": 44,
       "versionName": "0.2.3",
