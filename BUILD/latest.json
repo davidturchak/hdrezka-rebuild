@@ -2,7 +2,7 @@
   "versionCode": 58,
   "versionName": "0.2.7",
   "commit": "7cd6bd5",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.7.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/62a4b26dca38a6a32b3f62f6398613d4836af108/BUILD/hdrezka-ng-0.2.7.apk",
   "sizeBytes": 3330729,
   "sha256": "1ce2c180d1d3aff2a28da68fd28541e276714fc8b01f8097417d57c07747933a",
   "notes": "После установки обновления появляется экран с кнопкой «Открыть» — она сразу запускает новую версию, не нужно искать приложение среди остальных. Android не даёт приложению открыться самому после обновления, поэтому раньше оно просто закрывалось.",
