@@ -2,7 +2,7 @@
   "versionCode": 55,
   "versionName": "0.2.6",
   "commit": "4380516",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.6.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/018861d5945b5019217996894d3e6680015e606c/BUILD/hdrezka-ng-0.2.6.apk",
   "sizeBytes": 3330757,
   "sha256": "2cca1d9c3b629e13012f458ca126cca0030c4c7810fd8903bcc12ff5e1f380a0",
   "notes": "Служебный сигнал, который приложение отправляет автору при запуске и раз в шесть часов, теперь включает логин аккаунта HDrezka, если вы вошли. Пароль, история просмотра и закладки по-прежнему не отправляются. Подробнее — на сайте приложения, в разделе «Что приложение отправляет».",
