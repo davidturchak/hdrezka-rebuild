@@ -2,7 +2,7 @@
   "versionCode": 66,
   "versionName": "0.2.9",
   "commit": "2c31e04",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.9.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/a013d459a3f9b3a150fa5d068ab9efa82118cff3/BUILD/hdrezka-ng-0.2.9.apk",
   "sizeBytes": 3330729,
   "sha256": "250a7545235d4f56296712d2c66d79d86eebfacf7f3bf3c000434eafe8d41ba8",
   "notes": "Фильм или сериал теперь можно оценить по шкале от 1 до 10, как на сайте HDrezka: кнопка со звёздочкой «Оценить» рядом с закладками. Оценка сразу уходит на сайт, и средний балл HDrezka на странице обновляется. Если вы уже ставили оценку — на сайте или в приложении, — вместо кнопки видно «Ваша оценка» или «Оценено». Кнопки «нравится» и «не нравится», которые всегда показывали 0, убраны.",
