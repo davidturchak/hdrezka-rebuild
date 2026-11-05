@@ -2,7 +2,7 @@
   "versionCode": 70,
   "versionName": "0.2.10",
   "commit": "9e09e31",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.10.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/ea3b422d3cd023c0414173604894fff704256fa3/BUILD/hdrezka-ng-0.2.10.apk",
   "sizeBytes": 3330729,
   "sha256": "e7d98f962d421d72005fd04925dc76b92912eb004c02aaa29b988ecd5076f840",
   "notes": "На странице фильма на телевизоре название и постер больше не обрезаются сверху: страница открывается целиком, а при возврате курсора к кнопке «Смотреть» прокручивается до самого верха.",
