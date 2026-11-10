@@ -2,7 +2,7 @@
   "versionCode": 74,
   "versionName": "0.2.11",
   "commit": "4056c4d",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.11.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/b586c5a4a8b78b407f527c8cf5ff1efbbf44c79d/BUILD/hdrezka-ng-0.2.11.apk",
   "sizeBytes": 3330729,
   "sha256": "9475ae75ede6c0ad3590627c4b99c5b515504bbe359e2d557726be33fdf92679",
   "notes": "Большие разделы закладок больше не выдают ошибку сервера. Раньше при переходе между вкладками разделов в «Избранном» приложение загружало каждый раздел, мимо которого проходил курсор, и сайт отвечал ошибкой 503. Теперь раздел загружается, только когда курсор на нём остановился, а если сайт просит подождать, приложение само повторяет запрос.",
