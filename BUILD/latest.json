@@ -2,7 +2,7 @@
   "versionCode": 77,
   "versionName": "0.2.12",
   "commit": "ae44e06",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.12.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/982834ff2454f6148c5dc2b82ba4da6ceebcbd99/BUILD/hdrezka-ng-0.2.12.apk",
   "sizeBytes": 3330729,
   "sha256": "40aff895812ef922a31b19d2610e8dbd2163943db42d8346e2097270c1d00086",
   "notes": "На странице сериала описание снова можно прочитать с пульта: нажатие «вниз» от списка серий теперь останавливается на кнопке «Читать далее» под описанием. Раньше курсор перескакивал сразу к разделу «Похожее», и описание пролистывалось мимо.",
