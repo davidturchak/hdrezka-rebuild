@@ -2,7 +2,7 @@
   "versionCode": 80,
   "versionName": "0.2.13",
   "commit": "51850e0",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.13.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/c79d3cf6181a71102cf5aa9181742ddc8172e918/BUILD/hdrezka-ng-0.2.13.apk",
   "sizeBytes": 3330729,
   "sha256": "8cc5eeb5d326595bfa25b6220f3c5a1efa63b69b7e859b264033cb5290498c89",
   "notes": "На странице сериала список серий больше не уезжает за экран: нажатие «вверх» от серий к выбору озвучки оставляет серии на виду. Раньше страница прокручивалась до самого верха, и озвучки оказывались у нижнего края, а серии — за ним.",
