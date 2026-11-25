@@ -2,7 +2,7 @@
   "versionCode": 89,
   "versionName": "0.2.15",
   "commit": "4091160",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.15.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/b170f55fff86f414bf806136d4776baef57634ea/BUILD/hdrezka-ng-0.2.15.apk",
   "sizeBytes": 3363493,
   "sha256": "79a295847cd7deaab87540bb653d16a27312f227f566316151244fbe1d0c3222",
   "notes": "На экране входа на телевизоре появился QR-код для регистрации: наведите на него камеру телефона, и откроется страница регистрации HDrezka. На телефоне и планшете вместо кода — ссылка «Зарегистрироваться».",
