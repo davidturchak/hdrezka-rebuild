@@ -2,7 +2,7 @@
   "versionCode": 102,
   "versionName": "0.2.18",
   "commit": "b494cd4",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.18.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/43989cc73bc8d6fb97c1783953a5d095739872df/BUILD/hdrezka-ng-0.2.18.apk",
   "sizeBytes": 3379881,
   "sha256": "0a84c352cfffac5729404046588ecb0235c04ed9930e82f5521253ab541bd6af",
   "notes": "Смена зеркала на телевизоре: в окне «Зеркало сайта» кнопки «Отмена» и «Сохранить» снова доступны с пульта. Закройте клавиатуру кнопкой «Назад» и нажмите «вниз». Раньше курсор уходил на страницу под окном. При переходе в «Настройки» курсор встаёт на первую настройку — зеркало сайта, а не на выбор языка голосового поиска внизу страницы.",
