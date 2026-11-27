@@ -2,7 +2,7 @@
   "versionCode": 92,
   "versionName": "0.2.16",
   "commit": "8e6472f",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.2.16.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/907647176bf54c7683966d8e72818a82a3cabe6f/BUILD/hdrezka-ng-0.2.16.apk",
   "sizeBytes": 3379881,
   "sha256": "414dd463592ab8b8abea356af2f2511e3c208142543a515f7e9b4fe3902a42ec",
   "notes": "Субтитры: если у фильма или серии они есть, в панели управления плеера появляется кнопка субтитров. В ней можно выбрать язык или выключить их. Выбор запоминается: в следующем фильме или серии субтитры на этом языке включатся сами, а если выбрать «Выкл», они останутся выключенными. Во внешний плеер MX Player субтитры тоже передаются, а VLC получает выбранный язык.",
