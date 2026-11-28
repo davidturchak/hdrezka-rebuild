@@ -2,7 +2,7 @@
   "versionCode": 129,
   "versionName": "0.3.1",
   "commit": "df8becf",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.3.1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/427d8047a5b5b750cd6f7263081bfa540a25e4dd/BUILD/hdrezka-ng-0.3.1.apk",
   "sizeBytes": 3469883,
   "sha256": "bfb8b5f913d9806973a51b1b7757ca2fb46bd7748f69048a789bb22ac01f86ba",
   "notes": "В «Настройках» кнопки «Проверить обновления» и «Обновить» больше не перебрасывают экран наверх: курсор остаётся у обновления и переходит на следующую кнопку, когда она появляется.",
