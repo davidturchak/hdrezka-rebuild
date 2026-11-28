@@ -2,7 +2,7 @@
   "versionCode": 126,
   "versionName": "0.3.0",
   "commit": "a1e4b12",
-  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/main/BUILD/hdrezka-ng-0.3.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/davidturchak/hdrezka-rebuild/e86bbd35560f9e33a346258ff620edc6553e7161/BUILD/hdrezka-ng-0.3.0.apk",
   "sizeBytes": 3469883,
   "sha256": "37815cf871f12477556eb3bec44d3b4a8c22e0005fc42194e47b40bba560c746",
   "notes": "Приложение теперь можно переключить на украинский язык: «Настройки» → «Язык интерфейса». «Как в системе» выбирает украинский, если он установлен на устройстве, и русский во всех остальных случаях. Названия фильмов, жанры и озвучки приходят с сайта и остаются на русском.",
